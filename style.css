@@ -1,0 +1,18 @@
+.box {
+    width: 305px; height: 168px;
+    border: 1px  solid; color:#DB00FF
+} 
+.box-1 {
+    width: 657px; height: 121px;
+    border: 3px dashed; color: #450E4E;
+} 
+.box-2 {
+    width: 399px; height: 95px;
+    border: 3px solid; color:#04FF4A
+}
+.box-3 {
+    width: 1097px;  height: 173px;
+    background-color: #247DAF;
+    border: 3px solid; color:#736E42
+}
+    
